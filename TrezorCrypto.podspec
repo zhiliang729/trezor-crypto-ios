@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/TrustWallet/trezor-crypto-ios'
   s.license          = { type: 'MIT', file: 'trezor-crypto/LICENSE' }
   s.authors          = { 'Alejandro Isaza' => 'al@isaza.ca' }
-  s.source           = { git: 'https://github.com/TrustWallet/trezor-crypto-ios.git', tag: s.version, submodules: true }
+  s.source           = { git: 'https://github.com/zhiliang729/trezor-crypto-ios.git', tag: s.version, submodules: true }
   
   s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.10'
